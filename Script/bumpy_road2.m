@@ -3,4 +3,4 @@ t=t';
 stin=0.1*sin(t);
 stin(t>pi)=0;
 plot(t,stin);
-sim('model_script.slx');
+sim('model_p2.slx');
